@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/roomies/static/css/main.67b86c67.css",
+    "main.js": "/roomies/static/js/main.935cbd33.js",
+    "static/js/787.cf1844a2.chunk.js": "/roomies/static/js/787.cf1844a2.chunk.js",
+    "static/media/bg.jpg": "/roomies/static/media/bg.7655d490094e68fe0456.jpg",
+    "static/media/flat45.jpg": "/roomies/static/media/flat45.363ea5ad1e4c81134b92.jpg",
+    "static/media/navimumbai.jpg": "/roomies/static/media/navimumbai.d08a169afc55b583616b.jpg",
+    "static/media/thane.jpg": "/roomies/static/media/thane.d3a3ff33d07299b6bdb2.jpg",
+    "static/media/mumbai.jpg": "/roomies/static/media/mumbai.ec0825bb87b208e61244.jpg",
+    "static/media/home.png": "/roomies/static/media/home.4b24a4f818f47285c137.png",
+    "static/media/satara.jpg": "/roomies/static/media/satara.b06b38b048a14039cd58.jpg",
+    "static/media/pune.jpg": "/roomies/static/media/pune.57102b89b4cab88ee9a1.jpg",
+    "static/media/bedroom.jpg": "/roomies/static/media/bedroom.41f681e97fba53a3ef93.jpg",
+    "static/media/kitchen.jpg": "/roomies/static/media/kitchen.5fbd8158aeea071ae235.jpg",
+    "static/media/sangli.jpg": "/roomies/static/media/sangli.722d8d955cbe44152cb9.jpg",
+    "static/media/nagpur.jpg": "/roomies/static/media/nagpur.e251742a1d82d392a05a.jpg",
+    "static/media/kolhapur.jpg": "/roomies/static/media/kolhapur.0072303bc4afb6303092.jpg",
+    "static/media/canteen.png": "/roomies/static/media/canteen.7155a527c144f3a11835.png",
+    "static/media/wm.png": "/roomies/static/media/wm.5bc218344b300407c231.png",
+    "static/media/hall.jpg": "/roomies/static/media/hall.f91202a7885150506555.jpg",
+    "static/media/parking.png": "/roomies/static/media/parking.2f5fdb9f166b19e147b1.png",
+    "static/media/chat.png": "/roomies/static/media/chat.3dd3ed9e8e43ee8cceb8.png",
+    "static/media/wifi.png": "/roomies/static/media/wifi.6a1527a499a4efba82cd.png",
+    "static/media/ac.png": "/roomies/static/media/ac.59e0f14791544ddf30b6.png",
+    "static/media/location.png": "/roomies/static/media/location.24ee7ef07bdb40d5fa35.png",
+    "static/media/tv.png": "/roomies/static/media/tv.c02d805a7426541ecbe6.png",
+    "static/media/ownerlogo.jpg": "/roomies/static/media/ownerlogo.e1bbb48569da7514825f.jpg",
+    "static/media/lift.png": "/roomies/static/media/lift.81bb1a596eb16e349633.png",
+    "static/media/userlogo.jpg": "/roomies/static/media/userlogo.31bcacfd7d9753a12b70.jpg",
+    "static/media/adminlogo.jpg": "/roomies/static/media/adminlogo.8ad47f3bd7744db3c519.jpg",
+    "index.html": "/roomies/index.html",
+    "main.67b86c67.css.map": "/roomies/static/css/main.67b86c67.css.map",
+    "main.935cbd33.js.map": "/roomies/static/js/main.935cbd33.js.map",
+    "787.cf1844a2.chunk.js.map": "/roomies/static/js/787.cf1844a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b86c67.css",
+    "static/js/main.935cbd33.js"
+  ]
+}
